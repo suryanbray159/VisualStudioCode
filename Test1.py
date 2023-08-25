@@ -5,8 +5,8 @@ def addition (a,b):
 def substraction(a,b,c):
     return a-b-c    
 =======
-def substraction(a,b,d):
-    return a-b-d    
+def substraction(a,b,f):
+    return a-b-f    
 >>>>>>> 63d4285fb2bd967a76c4e013fe7536b405c3a4c6
 #Samplegit 
 
