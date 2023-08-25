@@ -3,4 +3,7 @@ def addition (a,b):
 
 def substraction(a,b):
     return a-b    
-#Sample
+#Samplegit 
+
+def divison(a,b):
+    return a/b
